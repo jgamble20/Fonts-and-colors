@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+*{box-sizing: border-box;}
+body{background: url("chopper-background.jpg") no-repeat fixed top}
+#container{width: 800px;px; margin:0 auto;}
+.left{width: 320px;height:200px;background-color:rgba(218, 236, 152, 0.502);border-radius: 25px;float: left;margin:0px 10px 0px 10px;
+}
+
+.right{width: 320px;
+    height:200px;background-color:rgba(22, 65, 28, 0.5);border-radius:  25px;float: left;
+}
+
+
+     footer{background-color:rgb(139, 190, 160);
+    clear:both;}
+    header > h1{text-align: center;
+    color: rgb(94, 13, 30);}
+    #container .right {
+        background-color:rgba(183, 19, 19, 0.266);}
+
+        body {font-family: "Oswald", sans-serif;font-optical-sizing: auto;font-style: normal; margin: 0; padding: 20px}
+        
+        header {background: #8a9ffd;color: rgb(121, 255, 193);padding: 10px 0;text-align: center;}
+
+        main {margin: 20px 0;}
+
+        button {
+            padding: 10px 15px;font-size: 16px;cursor: pointer;
+        }
+
+        footer { text-align: center;margin-top: 20px;font-size: 14px;
+        }
